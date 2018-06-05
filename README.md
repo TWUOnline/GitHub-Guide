@@ -16,6 +16,16 @@ Nope
 - What abou a dash....hmm it did something funny for a bit
 
 I will commit to changes now
+
+fork
+
+edit
+
+fork
+
+edit
+
+and we shall see what happens
 so I'm supposed to edit this file again
 
 While Colin is editing the file
