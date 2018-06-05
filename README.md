@@ -16,6 +16,12 @@ Nope
 - What abou a dash....hmm it did something funny for a bit
 
 I will commit to changes now
-```
-Colin's edit is here
-```
+so I'm supposed to edit this file again
+
+While Colin is editing the file
+
+WHAT SHALL OCCUR.
+
+Oh my goodness, he's giving more tech-y instrations. 
+
+Waiiiiit. it says I don't have acess to something something branch new fork something. 
