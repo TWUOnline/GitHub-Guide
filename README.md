@@ -26,3 +26,15 @@ fork
 edit
 
 and we shall see what happens
+so I'm supposed to edit this file again
+
+While Colin is editing the file
+
+WHAT SHALL OCCUR.
+
+Oh my goodness, he's giving more tech-y instrations. 
+
+Waiiiiit. it says I don't have acess to something something branch new fork something. 
+```
+colin's edit here again...
+```
