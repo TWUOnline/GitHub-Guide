@@ -26,5 +26,5 @@ Oh my goodness, he's giving more tech-y instrations.
 
 Waiiiiit. it says I don't have acess to something something branch new fork something. 
 ```
-joanna is too smart by half
+colin's edit here again...
 ```
