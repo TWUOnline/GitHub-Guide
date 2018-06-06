@@ -1,4 +1,7 @@
 # GitHub-Guide  
+This was a joy to read LOL CC
+
+
 Colin said to make edits
 
 So I'm making edits
